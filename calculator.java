@@ -8,6 +8,7 @@ class Main {
         System.out.println("Multiplication="+(a*b));
         System.out.println("division="+(a/b));
         System.out.println("Modulus="+(a%b));
+        System.out.println("helloooo");
 
     }
 }
